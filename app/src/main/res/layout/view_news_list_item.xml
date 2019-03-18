@@ -2,10 +2,9 @@
 <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginTop="8dp"
+    android:layout_marginTop="1dp"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    app:cardBackgroundColor="#ffffff"
-    app:cardCornerRadius="4dp">
+    app:cardBackgroundColor="#ffffff">
 
     <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
@@ -19,7 +18,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="#A3A8B4"
-            android:text="CBS News"
             android:textSize="12sp" />
 
         <TextView
@@ -28,7 +26,6 @@
             android:layout_height="wrap_content"
             android:textColor="#272D39"
             android:layout_marginTop="4dp"
-            android:text="47 years on, a wife still waits for her fighter pilot husband?"
             android:textStyle="bold"
             android:textSize="18sp" />
 
@@ -47,7 +44,6 @@
                 android:layout_weight="0.5"
                 android:lineSpacingExtra="1.4dp"
                 android:ellipsize="end"
-                android:textColor="#BABDC6"
                 android:textSize="14sp" />
 
             <ImageView
@@ -55,6 +51,7 @@
                 android:layout_width="0dp"
                 android:scaleType="fitXY"
                 android:layout_weight="0.5"
+                android:background="@drawable/bg_news"
                 android:layout_marginLeft="8dp"
                 android:layout_marginStart="8dp"
                 android:layout_height="100dp" />

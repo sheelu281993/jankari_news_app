@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "862655023110",
+    "firebase_url": "https://jankari-app.firebaseio.com",
+    "project_id": "jankari-app",
+    "storage_bucket": "jankari-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862655023110:android:f479cdadd93f08dd",
+        "android_client_info": {
+          "package_name": "com.shailu.jankari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862655023110-351upp7mk9udtj293nvu9smcn1bk8qu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shailu.jankari",
+            "certificate_hash": "8defa6bb3e364f8809658fabe0f26705eef7e8dd"
+          }
+        },
+        {
+          "client_id": "862655023110-bu6hrnq8sjg7aokp2advfi77773nso72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb6JJoOyfhFgjEuvkpWaedAFbm0VHFOCs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862655023110-bu6hrnq8sjg7aokp2advfi77773nso72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
